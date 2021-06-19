@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/simplefastwebsites/static/css/main.9d5b29c0.chunk.css",
+    "main.css": "/simplefastwebsites/static/css/main.14a2a989.chunk.css",
     "main.js": "/simplefastwebsites/static/js/main.386353e7.chunk.js",
     "main.js.map": "/simplefastwebsites/static/js/main.386353e7.chunk.js.map",
     "runtime-main.js": "/simplefastwebsites/static/js/runtime-main.176a1c73.js",
@@ -10,14 +10,15 @@
     "static/js/3.93913c27.chunk.js": "/simplefastwebsites/static/js/3.93913c27.chunk.js",
     "static/js/3.93913c27.chunk.js.map": "/simplefastwebsites/static/js/3.93913c27.chunk.js.map",
     "index.html": "/simplefastwebsites/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/simplefastwebsites/static/css/main.9d5b29c0.chunk.css.map",
+    "static/css/main.14a2a989.chunk.css.map": "/simplefastwebsites/static/css/main.14a2a989.chunk.css.map",
     "static/js/2.5118d675.chunk.js.LICENSE.txt": "/simplefastwebsites/static/js/2.5118d675.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/simplefastwebsites/static/media/logo.6ce24c58.svg"
+    "static/media/logo.6ce24c58.svg": "/simplefastwebsites/static/media/logo.6ce24c58.svg",
+    "static/media/App.css": "/simplefastwebsites/static/media/smallbusin.d8d4322a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.176a1c73.js",
     "static/js/2.5118d675.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
+    "static/css/main.14a2a989.chunk.css",
     "static/js/main.386353e7.chunk.js"
   ]
 }
